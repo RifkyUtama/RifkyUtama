@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkyutama&label=Profile%20views&color=0e75b6&style=flat" alt="rifkyutama" /> </p>
 
-- 🌇 I'm from **Sleman**
+- 🌏 I'm **Indonesian**
+- 🌇 I'm from the city of **Sleman**
 - 👦 I'm **19 Years old** this year
 - 🌱 I’m currently learning **Programming and Physics**
 
