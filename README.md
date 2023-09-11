@@ -14,4 +14,4 @@
 <a href="https://instagram.com/rifky_m1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rifky_m1" height="30" width="40" /></a>
 </p>
 
-- TEST BUAT GIT PULL
+- TEST GIT PULL
