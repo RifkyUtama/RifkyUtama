@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rifky Maisra Utama</h1>
+<h1 align="center">You can call me **Rifky**</h1>
 <h3 align="center">I'm a Geophysics Undergraduate student from Gadjah Mada University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkyutama&label=Profile%20views&color=0e75b6&style=flat" alt="rifkyutama" /> </p>
 
-- 🌱 I’m currently learning **Programming and Basic Physics**
+- 🌇 I'm from **Sleman**
+- 👦 I'm **19 Years old** this years
+- 🌱 I’m currently learning **Programming and Physics**
 
 - 📫 You can reach me on **rifkymaisrautama@mail.ugm.ac.id**
 
